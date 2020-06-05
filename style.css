@@ -1,0 +1,30 @@
+
+nav{
+  background-color: white;
+}
+.menu-item
+{
+color: midnightblue !important ;
+padding: 10px !important; 
+}
+
+.menu-item:hover
+{
+background-color: midnightblue;
+color: white ;
+transition: 1s;
+
+  padding: 10px;
+  border-radius: 25px;
+}
+.dropdown-item:hover
+{
+background-color: midnightblue  ;
+color: white  ;
+transition: 1s  ;
+
+}
+.change{
+  font-family: 'Chelsea Market', cursive !important ;
+  font-weight: bolder;
+}

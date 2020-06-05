@@ -1,0 +1,37 @@
+.btn
+{
+color: midnightblue  ;
+
+}
+
+.btn:hover
+{
+background-color: midnightblue;
+color: white !important;
+transition: 1s;
+
+ 
+  border-radius: 10px;
+}
+.list-group-item{
+  text-transform: capitalize;
+}
+
+.page-link
+{
+color: midnightblue !important  ;
+
+}
+
+.page-link:hover
+{
+background-color: midnightblue !important;
+color: white !important;
+transition: 1s;
+}
+.card-title{
+
+  text-align: left !important;
+}
+
+  

@@ -1,0 +1,17 @@
+
+.btn-rounded
+{
+color: midnightblue !important ;
+box-shadow: none;
+
+}
+
+.btn-rounded:hover
+{
+background-color: midnightblue;
+color: white !important;
+transition: 1s;
+
+ 
+  border-radius: 10px;
+}
